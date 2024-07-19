@@ -1,0 +1,46 @@
+[Clase 01] ---------------------------------------------------------------------------------
+Federico Barra
+federico.n.barra@gmail.com
+Discord: federico.n.barra
+
+Cosas a tener en cuenta:
+	- Interrumpanmen
+	- Objetivo de este modulo:
+		- Portfolio
+		- Aprender a poder pasar assets a un programador de unity.
+
+Version de Unity
+LTS 2022.3.26f1
+
+Link a este repo:
+	https://github.com/federicoBarra/GameArt2024
+Drive de la Unidad:
+	https://drive.google.com/drive/folders/1S8av2v4Vuc9JXICJul19RNQpk_zHYgQA
+
+Links para profundizar:
+FBX
+	https://docs.unity3d.com/Manual/class-FBXImporter.html
+
+Materiales
+	https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.0/manual/lit-shader.html
+	https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html
+	https://docs.unity3d.com/Manual/StandardShaderMaterialParameterMetallic.html
+	https://docs.unity3d.com/Manual/StandardShaderMaterialParameterSmoothness.html
+
+Texturas
+	https://docs.unity3d.com/Manual/class-TextureImporter.html
+
+Como exportar texturas de painter a Unity.
+	https://www.youtube.com/watch?v=_4ULQ95njmQ&ab_channel=SimonSanchezArt
+	Output Templates Location
+	(...)Documentos\Adobe\Adobe Substance 3D Painter\assets\export-presets
+
+Materiales de substance directo en unity
+	https://www.youtube.com/watch?v=N62jDffWQHE&ab_channel=AdobeSubstance3D
+	https://assetstore.unity.com/packages/tools/utilities/substance-3d-for-unity-213208
+
+Tarea:
+	Importar uno de sus modelos a Unity con texturas.
+	Jugar con elementos la escena, luces, primitivas, etc.
+	
+Unity llama Roughness como Smoothness
