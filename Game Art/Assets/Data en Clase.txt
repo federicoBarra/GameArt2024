@@ -1,3 +1,36 @@
+[Clase 02] ---------------------------------------------------------------------------------
+
+Links para profundizar:
+Linear vs Gamma
+https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html
+https://docs.unity3d.com/Manual/LinearRendering-LinearTextures.html
+
+Anisotropic
+https://en.wikipedia.org/wiki/Anisotropic_filtering
+
+MipMaps
+https://en.wikipedia.org/wiki/Mipmap
+
+Details Maps:
+https://docs.unity3d.com/Manual/StandardShaderMaterialParameterDetail.html
+
+Color Mode:
+https://docs.unity3d.com/Manual/shader-StandardParticleShaders.html
+
+HDR
+https://docs.unity3d.com/Manual/HDR.html
+
+Deferred vs Forward
+https://docs.unity3d.com/Manual/RenderingPaths.html
+https://gamedevelopment.tutsplus.com/forward-rendering-vs-deferred-rendering--gamedev-12342a
+
+Asset Store:
+https://assetstore.unity.com/
+
+Tarea:
+	Importar uno de sus modelos a Unity con texturas.
+	Jugar con elementos la escena, luces, primitivas, etc.
+
 [Clase 01] ---------------------------------------------------------------------------------
 Federico Barra
 federico.n.barra@gmail.com
