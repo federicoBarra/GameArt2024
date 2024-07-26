@@ -1,3 +1,35 @@
+[Clase 03] ---------------------------------------------------------------------------------
+Probar:
+	Importar uno de sus modelos a Unity con texturas.
+	Jugar con elementos la escena, luces, primitivas, etc.
+	Crear un skybox pa mi escena.
+	Agregarle post process
+	Particle system
+
+
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@13.1/manual/EffectList.html
+https://learn.unity.com/tutorial/creating-volumetric-fog-18#
+https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/obra-dinn-shader-215302
+https://assetstore.unity.com/packages/essentials/starterassets-firstperson-updates-in-new-charactercontroller-pac-196525
+
+
+First Person Character Controller:
+https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-urp-196525
+
+Third Person Character Controller:
+https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-urp-196526
+
+Otros assets gratis de Unity:
+https://assetstore.unity.com/publishers/1
+
+Unity Particles:
+https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+
+Unity Learn
+https://learn.unity.com/project/getting-started-with-particle-systems
+https://learn.unity.com/project/introduction-to-terrain-editor
+
+
 [Clase 02] ---------------------------------------------------------------------------------
 
 Links para profundizar:
