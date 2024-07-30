@@ -1,3 +1,10 @@
+[Clase 04] ---------------------------------------------------------------------------------
+https://docs.unity3d.com/Manual/SpriteEditor.html
+https://docs.unity3d.com/Manual/AnimatorWindow.html
+https://docs.unity3d.com/Manual/BuildSettings.html
+https://docs.unity3d.com/Manual/class-AudioSource.html
+
+
 [Clase 03] ---------------------------------------------------------------------------------
 Probar:
 	Importar uno de sus modelos a Unity con texturas.
