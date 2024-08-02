@@ -1,3 +1,16 @@
+[Clase 05] ---------------------------------------------------------------------------------
+Deferred vs Forward
+https://docs.unity3d.com/Manual/RenderingPaths.html
+https://gamedevelopment.tutsplus.com/forward-rendering-vs-deferred-rendering--gamedev-12342a
+https://www.youtube.com/watch?v=w0j1yo1v5Uo&ab_channel=DevandChill
+
+Texels
+https://www.youtube.com/watch?v=2-mIY87314g&ab_channel=JoshAntonio
+
+https://github.com/keijiro/KinoAqua?tab=readme-ov-file
+https://x.com/_kzr?lang=es
+
+
 [Clase 04] ---------------------------------------------------------------------------------
 https://docs.unity3d.com/Manual/SpriteEditor.html
 https://docs.unity3d.com/Manual/AnimatorWindow.html

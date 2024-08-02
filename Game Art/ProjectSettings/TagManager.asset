@@ -13,11 +13,11 @@ TagManager:
   - Water
   - UI
   - NO_DRAW
-  - 
-  - 
-  - 
-  - 
-  - 
+  - LayerCubo
+  - Ground
+  - Enemies
+  - Players
+  - Pepito
   - 
   - 
   - 
